@@ -14,7 +14,7 @@ This package is for:
 
 Oh - it´s free for ALL Retro´s.
 
-With best Regards
+With best regards
 
 Swyft - Development´s Germany
 

@@ -1,8 +1,4 @@
- ___  _    _  _  _  ____  ____ 
-/ __)( \/\/ )( \/ )( ___)(_  _)
-\__ \ )    (  \  /  )__)   )(  
-(___/(__/\__) (__) (__)   (__) 
- 2015 Swyft - Development´s Germany
+2015 Swyft - Development´s Germany
   official delivered by Swyft.de
 # HabCloud
 The official HabCloud for: furnitures / scripts / commands / clothes and more.
